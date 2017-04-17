@@ -1,0 +1,56 @@
+<RobotPro>
+  <Node name="M5_10螺钉R" id="4" info="测试......M5_10螺钉R ">
+    <childnode name="Target">-0.3985049,0.1969998,1.0903/8.835476E-06,4.000007,7.464708E-06</childnode>
+    <childnode name="SlowDown">-0.04474306,0.1965514,0.1582487/8.835475E-06,4.000007,7.464708E-06</childnode>
+    <childnode name="Spown">-0.166,0.1969999,1.09/8.835476E-06,4.000007,7.464708E-06</childnode>
+    <childnode name="Camera">0.1136514,0.2645426,1.397975/2.613636,234.6252,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="限位缓冲块_R">
+    <childnode name="Target">-0.4026,0.1962999,1.0902/9.33467E-06,6.830189E-06,9.635005E-13</childnode>
+    <childnode name="Spown">-0.23,0.1959999,1.09/9.33467E-06,6.830189E-06,9.635005E-13</childnode>
+    <childnode name="Camera">0.1136514,0.2645426,1.397975/2.613636,234.6252,0</childnode>
+  </Node>
+  <Node name="M5_10螺钉L" id="3" info="测试......M5_10螺钉L ">
+    <childnode name="Spown">-0.647,0.1969998,1.09/-1.301858E-05,176,1.927502E-05</childnode>
+    <childnode name="SlowDown">-0.08310306,0.1965514,0.1580186/-1.301858E-05,176,1.927502E-05</childnode>
+    <childnode name="Target">-0.43696,0.1969998,1.09007/-1.301858E-05,176,1.927502E-05</childnode>
+    <childnode name="Camera">-0.9068357,0.2360172,1.416115/0.03532549,127.3676,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="限位缓冲块_L">
+    <childnode name="Spown">-0.581,0.1959998,1.09/9.33467E-06,6.830189E-06,9.635005E-13</childnode>
+    <childnode name="Target">-0.435,0.1956999,1.0898/9.33467E-06,6.830189E-06,9.635005E-13</childnode>
+    <childnode name="Camera">-0.9068357,0.2360172,1.416115/0.03532549,127.3676,0</childnode>
+  </Node>
+  <Node name="M8_25螺钉" id="1" info="测试......M8_25螺钉 ">
+    <childnode name="Spown">-0.431,0.2099999,1.087/9.33467E-06,6.830189E-06,9.635005E-13</childnode>
+    <childnode name="SlowDown">4.470348E-08,0,-8.196494E-08/9.334668E-06,6.830189E-06,9.635005E-13</childnode>
+    <childnode name="Target">-0.4315,0.04479986,1.0874/9.33467E-06,6.830189E-06,9.635005E-13</childnode>
+    <childnode name="Camera">-0.4235952,0.2563703,1.990517/1.238539,178.7618,0</childnode>
+  </Node>
+  <Node name="底座限位座" id="0" info="测试......底座限位座 ">
+    <childnode name="Spown">-0.418,0.2239999,1.066/9.33467E-06,6.830189E-06,6.830189E-06</childnode>
+    <childnode name="SlowDown">-0.06409999,0.09354997,0.13394/9.334668E-06,6.830189E-06,6.830189E-06</childnode>
+    <childnode name="Target">-0.4178618,0.09399834,1.065992/9.33467E-06,6.830189E-06,6.830189E-06</childnode>
+    <childnode name="Camera">-0.3969155,0.2183259,1.72465/1.925926,180.8244,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="机座">
+    <childnode name="Target">0.2968569,0.02155143,0.4829485/9.334668E-06,6.830189E-06,6.830191E-06</childnode>
+    <childnode name="Spown">0.297,0.114,0.4829999/9.33467E-06,6.830189E-06,6.830191E-06</childnode>
+    <childnode name="Camera">1.931658,0.1419994,1.568592/359.692,236.4125,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="JZM10×1内六角螺塞">
+    <childnode name="Target">-0.402,0.2329999,1.023/26.43499,90.00001,270</childnode>
+    <childnode name="Spown">-0.402,0.2329998,1.2501/26.43499,90.00001,270</childnode>
+    <childnode name="Camera">-0.2887303,0.2420321,1.417847/2.269839,209.8065,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="JZM10密封垫圈">
+    <childnode name="Target">-0.402,0.2329999,1.02/9.33467E-06,6.830189E-06,6.830191E-06</childnode>
+    <childnode name="Spown">-0.402,0.2329998,1.2212/9.33467E-06,6.830189E-06,6.830191E-06</childnode>
+    <childnode name="Camera">-0.2887303,0.2420321,1.417847/2.269839,209.8065,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="底座">
+    <childnode name="Target">-0.418,0.0219999,0.931/9.33467E-06,6.830189E-06,6.830191E-06</childnode>
+    <childnode name="Spown">-0.418,0.02199993,0.69/9.33467E-06,6.830189E-06,6.830191E-06</childnode>
+    <childnode name="Camera">-1.139413,0.1682031,0.9891548/3.129536,112.517,0</childnode>
+  </Node>
+</RobotPro>

@@ -1,0 +1,32 @@
+﻿<RobotPro>
+  <Node id="0" info="填充info信息........" name="M3×6螺钉">
+    <childnode name="Target">0.1369178,1.120651,-1.128871/-2.774764E-05,90.00001,170.8771</childnode>
+    <childnode name="Spown">0.2340178,1.1207,-1.1289/-2.774764E-05,90.00001,170.8771</childnode>
+    <childnode name="Camera">0.2265344,1.130773,-1.405586/2.441457,343.0862,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="手腕扎线板">
+    <childnode name="Target">0.1420001,1.119,-1.132/6.830192E-06,90,5.008957E-06</childnode>
+    <childnode name="Spown">0.2032178,1.119,-1.132/6.830196E-06,90,5.008958E-06</childnode>
+    <childnode name="Camera">0.2265344,1.130773,-1.405586/2.441457,343.0862,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="M3×8螺钉">
+    <childnode name="Target">0.1189402,1.11916,-1.15707/3.415094E-06,90,180</childnode>
+    <childnode name="Spown">0.01770014,1.1192,-1.1571/3.415094E-06,90,180</childnode>
+    <childnode name="Camera">0.01310778,1.130651,-1.37982/2.785313,26.29819,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J6手腕线缆护套">
+    <childnode name="Target">0.1410001,1.119,-1.157/60,180,180</childnode>
+    <childnode name="Spown">0.05520014,1.119,-1.157/60,180,180</childnode>
+    <childnode name="Camera">0.01310778,1.130651,-1.37982/2.785313,26.29819,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="6811VV轴承 ">
+    <childnode name="Target">0.1295001,1.119,-1.157/5.008955E-06,-1.911197E-13,180</childnode>
+    <childnode name="Spown">0.06860013,1.119,-1.157/5.008955E-06,-1.911197E-13,180</childnode>
+    <childnode name="Camera">0.01310778,1.130651,-1.37982/2.785313,26.29819,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J5箱体侧盖">
+    <childnode name="Target">0.1350001,1.119,-1.157/3.415094E-06,90,180</childnode>
+    <childnode name="Spown">0.1209001,1.119,-1.157/3.415094E-06,90,180</childnode>
+    <childnode name="Camera">0.01310778,1.130651,-1.37982/2.785313,26.29819,0</childnode>
+  </Node>
+</RobotPro>

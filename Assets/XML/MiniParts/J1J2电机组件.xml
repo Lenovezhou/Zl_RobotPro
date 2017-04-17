@@ -1,0 +1,52 @@
+<RobotPro>
+  <Node id="0" info="J2为M5×90螺钉" name="J1M5×90螺钉">
+    <childnode name="Target">-0.01914302,0.7962515,0.9309487/9.334668E-06,6.830188E-06,270</childnode>
+    <childnode name="Spown">-0.01909995,0.6908,0.9308999/9.334668E-06,6.830188E-06,270</childnode>
+    <childnode name="Camera">-0.0278312,0.7295754,1.417771/359.0043,179.621,0</childnode>
+  </Node>
+  <Node id="0" info="J2为M5×90螺钉" name="J1M5锁紧垫片">
+    <childnode name="Target">-0.01914302,0.7982015,0.9309487/9.334668E-06,6.830188E-06,270</childnode>
+    <childnode name="Spown">-0.01909995,0.7175,0.9308999/9.334668E-06,6.830188E-06,270</childnode>
+    <childnode name="Camera">-0.0278312,0.7295754,1.417771/359.0043,179.621,0</childnode>
+  </Node>
+  <Node id="0" info="装配面涂油" name="J1RV齿轮">
+    <childnode name="Spown">-0.01909995,0.7659,0.9309/90,180,0</childnode>
+    <childnode name="Target">-0.01914302,0.8273515,0.9309487/90,180,0</childnode>
+    <childnode name="Camera">-0.0278312,0.7295754,1.417771/359.0043,179.621,0</childnode>
+  </Node>
+  <Node id="0" info="修配，轻压不能敲击" name="J1A8×25键">
+    <childnode name="Target">-0.03314302,0.8503515,0.9309487/-9.334668E-06,180,90</childnode>
+    <childnode name="Spown">-0.03309995,0.8209,0.9309/-9.334668E-06,180,90</childnode>
+    <childnode name="Camera">-0.0278312,0.7295754,1.417771/359.0043,179.621,0</childnode>
+  </Node>
+  <Node id="0" info="........" name="J1电机">
+    <childnode name="Target">-0.01914302,1.068352,0.9309487/90,90.00002,0</childnode>
+    <childnode name="Spown">-0.01909995,1.0793,0.9309/90,90.00002,0</childnode>
+    <childnode name="Camera">-0.009348274,1.007436,1.438676/6.739095,181.1618,0</childnode>
+  </Node>
+  <Node id="0" info="J2为M5×90螺钉" name="J2M5×45螺钉">
+    <childnode name="Target">0.1002569,0.4136,0.3029487/270,180,0</childnode>
+    <childnode name="Spown">-0.09439999,0.4136,0.3029/270,180,0</childnode>
+    <childnode name="Camera">-0.2402076,0.4442742,0.5457553/6.051365,147.0674,0</childnode>
+  </Node>
+  <Node id="0" info="J2为M5×90螺钉" name="J2M5锁紧垫片">
+    <childnode name="Target">0.1022069,0.4136,0.3029487/90,6.830189E-06,0</childnode>
+    <childnode name="Spown">-0.06399998,0.4136,0.3029/90,6.830189E-06,0</childnode>
+    <childnode name="Camera">-0.2402076,0.4442742,0.5457553/6.051365,147.0674,0</childnode>
+  </Node>
+  <Node id="0" info="装配面涂油" name="J2RV齿轮">
+    <childnode name="Target">0.1800569,0.4136,0.3029487/1.832E-12,270,180</childnode>
+    <childnode name="Spown">0.05680001,0.4136,0.3029/1.832E-12,270,180</childnode>
+    <childnode name="Camera">-0.2402076,0.4442742,0.5457553/6.051365,147.0674,0</childnode>
+  </Node>
+  <Node id="0" info="修配，轻压不能敲击" name="J2A8×25键">
+    <childnode name="Target">0.2005569,0.4136,0.2959486/270,-4.143216E-07,0</childnode>
+    <childnode name="Spown">0.1352,0.4136,0.2959/270,-4.143216E-07,0</childnode>
+    <childnode name="Camera">0.04146551,0.429886,0.08869641/3.816828,28.63702,0</childnode>
+  </Node>
+  <Node id="0" info="........" name="J2电机">
+    <childnode name="Target">0.4185571,0.4136,0.3029486/1.707547E-06,270,270</childnode>
+    <childnode name="Spown">0.3975,0.4136,0.3029/1.707547E-06,270,270</childnode>
+    <childnode name="Camera">0.3695218,0.4611359,0.7880981/6.739095,181.1618,0</childnode>
+  </Node>
+</RobotPro>

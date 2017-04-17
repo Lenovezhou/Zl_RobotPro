@@ -1,0 +1,67 @@
+<RobotPro>
+  <Node id="0" info="填充info信息........" name="M3×25螺钉">
+    <childnode name="Target">-0.06819989,1.226489,-1.219501/-4.325712E-06,180,180</childnode>
+    <childnode name="Spown">-0.06799994,1.226,-1.5965/-4.325712E-06,180,180</childnode>
+    <childnode name="Camera">0.01381445,1.25698,-1.332638/7.254767,327.8563,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J6减速机锁紧垫片">
+    <childnode name="Target">-0.06849988,1.230989,-1.230001/-1.301254E-05,180,16.64089</childnode>
+    <childnode name="Spown">-0.06799994,1.231,-1.5318/-1.181716E-05,180,16.64088</childnode>
+    <childnode name="Camera">0.09051967,1.233744,-1.697902/0.03549749,342.8107,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="56.5X2.0 O型圈">
+    <childnode name="Target">-0.06800027,1.231,-1.529062/90,1.448902E-05,0</childnode>
+    <childnode name="Spown">-0.06800027,1.231,-1.512161/90,1.448902E-05,0</childnode>
+    <childnode name="Camera">0.08444906,1.257692,-1.420118/7.942305,231.4275,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="M2.5×8螺钉">
+    <childnode name="Target">-0.06849988,1.230989,-1.234101/5.699554E-12,270,180</childnode>
+    <childnode name="Spown">-0.06849994,1.231,-1.4288/5.699554E-12,270,180</childnode>
+    <childnode name="Camera">0.005292416,1.233739,-1.479024/0.8949267,338.857,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J6减速机波发生器">
+    <childnode name="Target">-0.06849988,1.230989,-1.225301/-1.707547E-06,270,89.99999</childnode>
+    <childnode name="Spown">-0.06849994,1.231,-1.4549/0,270,89.99999</childnode>
+    <childnode name="Camera">0.005292416,1.233739,-1.479024/0.8949267,338.857,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="C2×8键">
+    <childnode name="Target">-0.0667,1.230989,-1.224001/3.415092E-06,90.00001,180</childnode>
+    <childnode name="Spown">-0.06669997,1.231,-1.3753/3.415095E-06,90.00001,180</childnode>
+    <childnode name="Camera">0.005292416,1.233739,-1.479024/0.8949267,338.857,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J6减速机隔套">
+    <childnode name="Target">-0.06849988,1.230989,-1.222001/-4.667334E-06,180,90.00002</childnode>
+    <childnode name="Spown">-0.06799997,1.231,-1.3909/-2.252498E-06,180,90.00002</childnode>
+    <childnode name="Camera">0.005292416,1.233739,-1.479024/0.8949267,338.857,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J6箱体壳体">
+    <childnode name="Target">-0.06849988,1.231,-1.108001/-4.325712E-06,180,180</childnode>
+    <childnode name="Spown">-0.06849998,1.2788,-1.1579/90,180,180</childnode>
+    <childnode name="Camera">0.4490572,1.227284,-1.142741/359.0038,270.4431,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="M3螺钉">
+    <childnode name="Target">-0.06349292,1.168447,-1.154884/270.2366,180.4538,179.6262</childnode>
+    <childnode name="Spown">-0.06299934,1.397956,-1.154855/270.2407,180.4516,179.6284</childnode>
+    <childnode name="Camera">0.04852927,1.417545,-1.181203/57.78923,275.379,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J6电机">
+    <childnode name="Camera">0.04852927,1.417545,-1.181203/57.78923,275.379,0</childnode>
+    <childnode name="Spown">-0.0679995,1.318948,-1.156514/89.75934,0.4492878,0.3693</childnode>
+    <childnode name="Target">-0.06799608,1.173725,-1.156901/89.75934,0.4492878,0.3693</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="M3×10螺钉">
+    <childnode name="Target">-0.1034999,1.231429,-1.157001/3.415092E-06,90.00001,180</childnode>
+    <childnode name="Spown">0.1370001,1.230989,-1.157/3.415092E-06,90.00001,180</childnode>
+    <childnode name="Camera">0.4490572,1.227284,-1.142741/359.0038,270.4431,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J5箱体组件">
+    <childnode name="Target">-0.06749989,1.230989,-1.157002/6.83019E-06,90,9.334671E-06</childnode>
+    <childnode name="Spown">-0.115,1.230989,-1.157/6.83019E-06,90,9.334671E-06</childnode>
+    <childnode name="Camera">-0.1244171,1.581261,-1.653887/33.72503,1.217182,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J6箱体-DC_Shell 6">
+    <childnode name="Target">-0.06760034,1.278842,-1.157139/89.76015,179.9966,179.9966</childnode>
+    <childnode name="Spown">-0.06760032,1.122141,-1.157098/89.76015,179.9966,179.9966</childnode>
+    <childnode name="Camera">-0.1244171,1.581261,-1.653887/33.72503,1.217182,0</childnode>
+  </Node>
+</RobotPro>

@@ -1,0 +1,27 @@
+<RobotPro>
+  <Node id="0" info="不打扭矩" name="J2M5×10螺钉R">
+    <childnode name="Camera">-0.2509892,0.4817379,0.5210302/45.24196,198.1129,0</childnode>
+    <childnode name="Spown">-0.2951,0.4484065,0.4799578/0,270,49.49999</childnode>
+    <childnode name="Target">-0.2951,0.3443597,0.391053/0,270,49.49999</childnode>
+  </Node>
+  <Node id="0" info="与机座相同" name="J2限位缓冲块R">
+    <childnode name="Target">-0.2951,0.3408618,0.3880655/0,270,319.5</childnode>
+    <childnode name="Spown">-0.2951,0.413707,0.4502774/0,270,319.5</childnode>
+    <childnode name="Camera">-0.2509892,0.4817379,0.5210302/45.24196,198.1129,0</childnode>
+  </Node>
+  <Node id="0" info="不打扭矩" name="J2M5×10螺钉L">
+    <childnode name="Target">-0.2951,0.3063004,0.2694992/359.3627,270.1413,167.4992</childnode>
+    <childnode name="Spown">-0.2951,0.3478932,0.08181584/359.3627,270.1413,167.4992</childnode>
+    <childnode name="Camera">-0.3912264,0.3926579,0.02616709/18.08382,20.68088,0</childnode>
+  </Node>
+  <Node id="0" info="与机座相同" name="J2限位缓冲块L">
+    <childnode name="Target">-0.2951,0.3042549,0.2786587/-1.366038E-05,270,77.49998</childnode>
+    <childnode name="Spown">-0.2951,0.33779,0.1274563/-1.366038E-05,270,77.49998</childnode>
+    <childnode name="Camera">-0.3912264,0.3926579,0.02616709/18.08382,20.68088,0</childnode>
+  </Node>
+  <Node id="0" info="........" name="J2限位块">
+    <childnode name="Target">-0.2641,0.4136,0.3029/1.878302E-05,270,22.49999</childnode>
+    <childnode name="Spown">-0.2641,0.3249076,0.3396376/1.878302E-05,270,22.49999</childnode>
+    <childnode name="Camera">-0.7925292,0.2936401,0.2864772/358.8323,90.65233,0</childnode>
+  </Node>
+</RobotPro>

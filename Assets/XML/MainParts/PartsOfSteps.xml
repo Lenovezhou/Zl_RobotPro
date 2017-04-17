@@ -1,0 +1,18 @@
+<RobotPro warning=" ID需有规律如:1的子为1*10-1*10+10,11的子为10*10-10*10+10">
+  <Node id="1" name="SA1400A总成">16/16</Node>
+  <Node id="11" name="基体总成">18/18</Node>
+  <Node id="111" name="J2防撞块组件">5/5</Node>
+  <Node id="112" name="旋转臂">9/9</Node>
+  <Node id="1121" name="J1J2电机组件">10/10</Node>
+  <Node id="1122" name="旋转座组件">12/12</Node>
+  <Node id="1123" name="机座">9/9</Node>
+  <Node id="12" name="前臂驱动总成">19/19</Node>
+  <Node id="15" name="J3电机组件">5/5</Node>
+  <Node id="122" name="J4电机组件">17/17</Node>
+  <Node id="13" name="前臂筒">1/1</Node>
+  <Node id="14" name="腕关节总成">17/17</Node>
+  <Node id="141" name="手腕侧盖组件">6/6</Node>
+  <Node id="142" name="J5J6箱体总成">13/13</Node>
+  <Node id="1421" name="J5电机组件">8/8</Node>
+  <Node id="1422" name="J5箱体组件">23/23</Node>
+</RobotPro>

@@ -1,0 +1,7 @@
+<RobotPro>
+  <Node id="0" info="填充info信息........" name="前臂筒">
+    <childnode name="Target">-0.068,1.119,-0.618/-1.434362E-05,180,5.008956E-06</childnode>
+    <childnode name="Spown">-0.188,1.119,-0.618/-1.434362E-05,180,5.008956E-06</childnode>
+    <childnode name="Camera">-0.3903436,1.117085,-1.442375/0.5509121,24.33866,0</childnode>
+  </Node>
+</RobotPro>

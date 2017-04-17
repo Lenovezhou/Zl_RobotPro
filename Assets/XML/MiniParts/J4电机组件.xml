@@ -1,0 +1,87 @@
+<RobotPro>
+  <Node id="0" info="填充info信息........" name="M5×16螺钉x6">
+    <childnode name="Target">0.06010002,1.1191,0.04479998/69.08656,90.00004,3.348531E-05</childnode>
+    <childnode name="Spown">0.06010001,1.1191,0.00439997/69.08656,90.00004,3.348531E-05</childnode>
+    <childnode name="Camera">-0.07812972,1.12114,0.04546531/1.066499,88.72874,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="M5压纹垫片x6">
+    <childnode name="Target">0.06008528,1.11902,0.04640006/9.334662E-06,5.008957E-06,112.5227</childnode>
+    <childnode name="Spown">0.06010001,1.119,0.01369998/9.334662E-06,5.008957E-06,112.5227</childnode>
+    <childnode name="Camera">-0.07812972,1.12114,0.04546531/1.066499,88.72874,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="曲轴组件">
+    <childnode name="Target">0.06000002,1.119,0.06200008/-1.434362E-05,180,5.008957E-06</childnode>
+    <childnode name="Spown">-0.06859998,1.119,0.06199999/-1.434362E-05,180,5.008957E-06</childnode>
+    <childnode name="Camera">0.2485006,1.185872,-0.204336/12.0673,323.4242,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="曲轴连接导向轴">
+    <childnode name="Target">0.06000002,1.119,0.04800008/9.334664E-06,5.008958E-06,112.5227</childnode>
+    <childnode name="Spown">0.06000001,1.119,-0.02790003/9.334664E-06,5.008958E-06,112.5227</childnode>
+    <childnode name="Camera">0.3089893,1.219094,-0.07201561/18.94282,302.1101,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="导向轴O型圈">
+    <childnode name="Target">0.06000002,1.119,-0.01642607/0,270,270</childnode>
+    <childnode name="Spown">0.06000002,1.119,-0.007506073/0,270,270</childnode>
+    <childnode name="Camera">0.3089893,1.219094,-0.07201561/18.94282,302.1101,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="M4×16螺钉x6">
+    <childnode name="Target">0.06000002,1.119,0.07949999/38.45648,270,180</childnode>
+    <childnode name="Spown">0.06000001,1.119,-0.05010003/38.45648,270,180</childnode>
+    <childnode name="Camera">0.3891457,1.16631,-0.0133425/7.942035,286.4675,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="M4压纹垫片x6">
+    <childnode name="Target">0.06000002,1.1188,0.08399999/-1.388393E-05,180,54.73661</childnode>
+    <childnode name="Spown">0.06000001,1.1188,-0.03290002/-1.388393E-05,180,54.73661</childnode>
+    <childnode name="Camera">0.3891457,1.16631,-0.0133425/7.942035,286.4675,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J4减速机">
+    <childnode name="Target">0.06000002,1.119,0.05500008/60,90.00004,270</childnode>
+    <childnode name="Camera">0.2008406,1.147187,0.02970952/10.86409,290.2488,0</childnode>
+    <childnode name="Spown">0.06000001,1.119,0.02019997/60,90.00004,270</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="LCS-17-O-58X1.5 O型圈">
+    <childnode name="Target">0.06000002,1.119,0.05683415/356.7794,90.00001,270</childnode>
+    <childnode name="Spown">0.06000002,1.119,0.07278413/356.7794,90.00001,270</childnode>
+    <childnode name="Camera">-0.1403671,1.137972,0.1046408/5.363953,103.3783,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="M3×10螺钉">
+    <childnode name="Target">0.06000002,1.119,0.09080014/-1.464004E-05,180,78.07132</childnode>
+    <childnode name="Spown">0.06000001,1.119,0.01509999/-1.464004E-05,180,78.07132</childnode>
+    <childnode name="Camera">0.2143512,1.177637,0.04629274/20.48982,283.8895,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J4减速机锁紧垫片">
+    <childnode name="Target">0.06000002,1.119,0.08200011/-3.54063E-06,180,243.946</childnode>
+    <childnode name="Spown">0.06000002,1.119,0.06469998/-3.54063E-06,180,243.946</childnode>
+    <childnode name="Camera">0.2487161,1.180528,0.08484052/18.25523,268.9352,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="C3X12半圆头键">
+    <childnode name="Target">0.06219998,1.119,0.09250009/3.415094E-06,90.00001,180</childnode>
+    <childnode name="Spown">0.06220002,1.119,0.07789999/3.415094E-06,90.00001,180</childnode>
+    <childnode name="Camera">0.2487161,1.180528,0.08484052/18.25523,268.9352,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="M5×16螺钉x4">
+    <childnode name="Target">0.06044883,1.118649,0.1146001/90,270,0</childnode>
+    <childnode name="Spown">0.06000004,1.119,0.284/90,270,0</childnode>
+    <childnode name="Camera">0.1367974,1.116878,0.5092978/359.5198,198.4298,0</childnode>
+  </Node>
+    <Node id="0" info="填充info信息........" name="J4M8平垫圈x4">
+    <childnode name="Target">0.06120002,1.119,0.1135/90,90.00002,0</childnode>
+    <childnode name="Spown">0.06120003,1.119,0.2573/90,90.00002,0</childnode>
+    <childnode name="Camera">0.1367974,1.116878,0.5092978/359.5198,198.4298,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J4电机">
+    <childnode name="Target">0.06000002,1.119,0.1130001/-9.334664E-06,180,270</childnode>
+    <childnode name="Spown">0.06000003,1.119,0.2154/-9.334664E-06,180,270</childnode>
+    <childnode name="Camera">0.2647877,1.105657,0.1620886/356.9412,268.7627,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="54.75x2.0 O型圈">
+    <childnode name="Target">0.06000002,1.119,0.1065001/320.8246,90,90.00001</childnode>
+    <childnode name="Spown">0.06000003,1.119,0.1722/320.8246,90,90.00001</childnode>
+    <childnode name="Camera">0.2647877,1.105657,0.1620886/356.9412,268.7627,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J4电机法兰">
+    <childnode name="Target">0.06000002,1.119,0.107/-1.434362E-05,180,5.008957E-06</childnode>
+    <childnode name="Spown">0.06000002,1.119,0.1014/-1.434362E-05,180,5.008957E-06</childnode>
+    <childnode name="Camera">0.2647877,1.105657,0.1620886/356.9412,268.7627,0</childnode>
+  </Node>
+</RobotPro>

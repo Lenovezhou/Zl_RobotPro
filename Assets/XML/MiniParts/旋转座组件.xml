@@ -1,0 +1,65 @@
+<RobotPro>
+  <Node id="0" info="填充info信息........" name="J1零位块M4X10螺钉">
+    <childnode name="Target">0.06123739,0.5583513,1.05967/9.334668E-06,6.830188E-06,90</childnode>
+    <childnode name="Spown">0.06120007,0.5947999,1.0597/9.334668E-06,6.830188E-06,90</childnode>
+    <childnode name="Camera">0.1172691,0.691043,1.14931/43.86665,212.0096,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J1零位块垫圈">
+    <childnode name="Target">0.06063007,0.5535499,1.05928/90,2.131921E-05,0</childnode>
+    <childnode name="Spown">0.06060006,0.5735999,1.0593/90,2.131921E-05,0</childnode>
+    <childnode name="Camera">0.1172691,0.691043,1.14931/43.86665,212.0096,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J1零位块">
+    <childnode name="Target">0.06087483,0.5325513,1.059004/4.296797E-06,32.00002,1.073895E-05</childnode>
+    <childnode name="Spown">0.06090006,0.5100999,1.059/4.296797E-06,32.00002,1.073895E-05</childnode>
+    <childnode name="Camera">0.09646668,0.4363506,1.116319/302.7969,211.8397,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="Main Camera">
+    <childnode name="Camera">-0.1924354,0.5621811,1.297842/3.473107,133.3156,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="旋转坐限位块M8X20螺钉">
+    <childnode name="Target">-0.02152989,0.5615514,0.7852963/90,2.131921E-05,0</childnode>
+    <childnode name="Spown">-0.02149997,0.4623999,0.7852999/90,2.131921E-05,0</childnode>
+    <childnode name="Camera">-0.01962739,0.2623851,0.6200017/304.3439,0.1764825,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J1旋转座限位块">
+    <childnode name="Target">-0.01909997,0.5495514,0.7717/90,2.131921E-05,0</childnode>
+    <childnode name="Spown">-0.01909997,0.5159999,0.7716999/90,2.131921E-05,0</childnode>
+    <childnode name="Camera">-0.01962739,0.2623851,0.6200017/304.3439,0.1764825,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J1M3X6螺钉">
+    <childnode name="Target">-0.01911315,0.6495514,0.9304299/270,148.8471,0</childnode>
+    <childnode name="Spown">-0.01909995,0.7516999,0.9304/270,148.8471,0</childnode>
+    <childnode name="Camera">-0.01438308,0.9081545,1.125088/53.14849,181.4045,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="油封压盖">
+    <childnode name="Target">-0.01914302,0.6525514,0.9309487/1.770932E-06,45,1.143028E-05</childnode>
+    <childnode name="Spown">-0.01909995,0.7321999,0.9309/1.770932E-06,45,1.143028E-05</childnode>
+    <childnode name="Camera">-0.01438308,0.9081545,1.125088/53.14849,181.4045,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="WA36X50X7密封圈">
+    <childnode name="Target">-0.01914302,0.6525514,0.9309487/1.055431E-05,33.15762,180</childnode>
+    <childnode name="Spown">-0.01909995,0.7125999,0.9309/1.055431E-05,33.15762,180</childnode>
+    <childnode name="Camera">-0.01438308,0.9081545,1.125088/53.14849,181.4045,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J1M3X6螺钉 1">
+    <childnode name="Target">-0.02809997,0.7296,0.7517999/5.122642E-06,90.00002,270</childnode>
+    <childnode name="Spown">0.1943,0.7296,0.7517999/5.122642E-06,90.00002,270</childnode>
+    <childnode name="Camera">0.298968,0.730718,0.751928/0.2072621,269.8261,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="油封压盖 1">
+    <childnode name="Target">-0.02514303,0.7295514,0.7509487/90,90.00002,0</childnode>
+    <childnode name="Spown">0.1614,0.7296,0.7508999/90,90.00002,0</childnode>
+    <childnode name="Camera">0.298968,0.730718,0.751928/0.2072621,269.8261,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="WA36X50X7密封圈 1">
+    <childnode name="Target">-0.02514303,0.7295514,0.7509487/9.334668E-06,6.830188E-06,90</childnode>
+    <childnode name="Spown">0.1238,0.7296,0.7508999/9.334668E-06,6.830188E-06,90</childnode>
+    <childnode name="Camera">0.3139361,0.7448643,0.6489707/3.988765,297.7507,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="旋转座">
+    <childnode name="Target">-0.01914302,0.5595514,0.9309486/9.334668E-06,6.830189E-06,6.830191E-06</childnode>
+    <childnode name="Spown">-0.01899998,0.5599999,0.6459999/9.334668E-06,6.830189E-06,6.830191E-06</childnode>
+    <childnode name="Camera">-0.7300216,0.7540489,0.8603776/4.332543,111.2531,0</childnode>
+  </Node>
+</RobotPro>

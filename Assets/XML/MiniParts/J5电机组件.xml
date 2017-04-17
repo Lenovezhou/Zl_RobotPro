@@ -1,0 +1,42 @@
+<RobotPro>
+  <Node id="0" info="填充info信息........" name="M2.5X8螺钉">
+    <childnode name="Target">0.1791001,1.119,-1.049/-1.434362E-05,180,5.008956E-06</childnode>
+    <childnode name="Spown">0.06850005,1.119,-1.049/-1.434362E-05,180,5.008956E-06</childnode>
+    <childnode name="Camera">-0.00965041,1.134576,-0.9621122/4.332576,114.2107,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="输出带轮锁紧垫片">
+    <childnode name="Target">0.1807001,1.119,-1.049/9.391511E-06,89.99999,22.52271</childnode>
+    <childnode name="Spown">0.09380006,1.119,-1.049/9.391511E-06,89.99999,22.52271</childnode>
+    <childnode name="Camera">-0.00965041,1.134576,-0.9621122/4.332576,114.2107,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J5输出带轮">
+    <childnode name="Target">0.1797001,1.119,-1.049/0,90,90.00002</childnode>
+    <childnode name="Spown">0.1207001,1.119,-1.049/0,90,90.00002</childnode>
+    <childnode name="Camera">-0.00965041,1.134576,-0.9621122/4.332576,114.2107,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="C2X8键">
+    <childnode name="Target">0.1900001,1.119,-1.0452/-9.334668E-06,180,180</childnode>
+    <childnode name="Spown">0.1474001,1.119,-1.0452/-9.334668E-06,180,180</childnode>
+    <childnode name="Camera">0.00675583,1.148491,-0.9350764/8.114074,122.8062,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="M4×10螺钉x2">
+    <childnode name="Target">0.2060001,1.1187,-1.0496/9.334668E-06,5.563896E-13,6.83019E-06</childnode>
+    <childnode name="Spown">0.2777001,1.1187,-1.0496/9.334668E-06,5.563896E-13,6.83019E-06</childnode>
+    <childnode name="Camera">0.2968941,1.135163,-0.9599229/6.567106,231.9544,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J5电机">
+    <childnode name="Target">0.2020001,1.119,-1.049/2.442666E-12,270,-9.334668E-06</childnode>
+    <childnode name="Spown">0.2313001,1.119,-1.049/2.442666E-12,270,-9.334668E-06</childnode>
+    <childnode name="Camera">0.3044704,1.16288,-0.8649688/11.37996,213.3923,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J5电机张紧销">
+    <childnode name="Target">0.1965001,1.119,-1.069/-6.232547E-05,270,8.175873</childnode>
+    <childnode name="Spown">0.1771001,1.119,-1.069/-6.232547E-05,270,8.175873</childnode>
+    <childnode name="Camera">0.1720003,1.131334,-1.165529/6.223334,5.510753,0</childnode>
+  </Node>
+  <Node id="0" info="填充info信息........" name="J5电机法兰">
+    <childnode name="Target">0.1970001,1.119,-1.049/-4.325711E-06,180,180</childnode>
+    <childnode name="Spown">0.2034,1.119,-1.049/-4.325711E-06,180,180</childnode>
+    <childnode name="Camera">0.1720003,1.131334,-1.165529/6.223334,5.510753,0</childnode>
+  </Node>
+</RobotPro>
